@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/heima2/CountdownLatchTest.java=gbk
+encoding//src/cn/itcast/heima2/CyclicBarrierTest.java=gbk
+encoding//src/cn/itcast/heima2/ExchangerTest.java=gbk
+encoding//src/cn/itcast/heima2/SemaphoreTest.java=gbk
+encoding//src/future/CallableAndFuture.java=UTF-8
+encoding//src/queue/BigPlate.java=gbk
+encoding//src/queue/BlockingQueueTest2.java=gbk
+encoding//src/read/InitialOrderTest.java=gbk
+encoding//src/read/Test.java=UTF-8
+encoding//src/syn/Test.java=gbk
+encoding/<project>=gbk
